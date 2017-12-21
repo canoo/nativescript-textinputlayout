@@ -59,7 +59,7 @@ export const selectedLineHeightProperty: Property<TextInputLayout, number>;
 export const errorColorProperty: Property<TextInputLayout, Color>;
 export const iconColorProperty: Property<TextInputLayout, Color>;
 export const selectedIconColorProperty: Property<TextInputLayout, Color>;
-export const iconFontProperty: Property<TextInputLayout, UIFont>;
+export const iconFontProperty: Property<TextInputLayout, any>;
 export const iconTextProperty: Property<TextInputLayout, string>;
 export const iconMarginBottomProperty: Property<TextInputLayout, number>;
 export const iconMarginLeftProperty: Property<TextInputLayout, number>;
